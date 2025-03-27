@@ -1,0 +1,8 @@
+langchain 
+pandas 
+faiss-cpu 
+groq
+langchain-community
+langchain-huggingface 
+sentence_transformers
+langchain-groq
