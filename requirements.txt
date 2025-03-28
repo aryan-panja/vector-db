@@ -6,3 +6,5 @@ langchain-community
 langchain-huggingface 
 sentence_transformers
 langchain-groq
+transformers 
+pandas
